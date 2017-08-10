@@ -1,0 +1,5 @@
+A simple RSS client.
+Currently only supports PDF and html
+Dependancies:
+~ Boost/Beast
+~ TinyXML
